@@ -1,0 +1,5 @@
+pwn
+paramiko
+argparse
+colorama
+sys
